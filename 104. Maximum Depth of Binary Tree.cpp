@@ -69,7 +69,7 @@ public:
 	}
 };
 
-void test()
+void test_104()
 {
 	//  A Tree for test, height is 3
 	//         0(root)  depth is 1, level is 0
@@ -89,9 +89,4 @@ void test()
 	/* solution */
 	Solution sol;
 	cout << sol.maxDepth(&root) << endl; // output: 4
-}
-
-int main()
-{
-	test();
 }
