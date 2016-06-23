@@ -1,6 +1,6 @@
 // Given s = "the sky is blue",
 // return "blue is sky the".
-//#define MY
+#define MY
 
 #include <string>
 #include <vector>
